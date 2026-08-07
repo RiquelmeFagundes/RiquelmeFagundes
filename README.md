@@ -68,24 +68,24 @@
 
 <td align="center">
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre lang="text" class="notranslate"><code>╭──────────────────────────────────────────────────────────────╮
-│                      RIQUELME DEVELOPMENT                    │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  Backend Development      ████████████████████░░  85%        │
-│  Java                    ███████████████████░░░  80%         │
-│  JavaScript              █████████████████░░░░░  75%         │
-│  Databases               ██████████████████░░░░  78%         │
-│  Frontend                ███████████░░░░░░░░░░░  50%         │
-│  Full-Stack              █████████░░░░░░░░░░░░░  40%         │
-│                                                              │
-│  STATUS: CONSTANTLY EVOLVING                                 │
-╰──────────────────────────────────────────────────────────────╯
+      │                      RIQUELME DEVELOPMENT                    │
+      ├──────────────────────────────────────────────────────────────┤
+      │                                                              │
+      │  Backend Development     █████████████████████░░  85%        │
+      │  Java                    ███████████████████░░░  80%         │
+      │  JavaScript              █████████████████░░░░░  75%         │
+      │  Databases               ██████████████████░░░░  78%         │
+      │  Frontend                ███████████░░░░░░░░░░░  50%         │
+      │  Full-Stack              █████████░░░░░░░░░░░░░  40%         │
+      │                                                              │
+      │  STATUS: CONSTANTLY EVOLVING                                 │
+      ╰──────────────────────────────────────────────────────────────╯
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy code to clipboard" class="ClipboardButton btn js-clipboard-copy m-2 p-0" data-copy-feedback="Copied!" data-tooltip-direction="w" value="╭─────────────────────────────────────────────────────────────────────╮
        │                      RIQUELME DEVELOPMENT                           │
        ├─────────────────────────────────────────────────────────────────────┤
        │                                                                     │
-       │  Backend Development      ████████████████████░░  85%               │
+       │  Backend Development     █████████████████████░░  85%               │
        │  Java                    ███████████████████░░░  80%                │
        │  JavaScript              █████████████████░░░░░  75%                │
        │  Databases               ██████████████████░░░░  78%                │
