@@ -1,6 +1,7 @@
 <h1 align="center"> ⚙️Riquelme Fagundes</h1>
 
-**`Desenvolvedor Full-Stack`** Me chamo Riquelme da Silva Fagundes, tenho 24 anos e sou natural do Rio de Janeiro. Atualmente estou cursando Engenharia Mecânica pela UERJ de Nova Friburgo. Meu principal objetivo de carreira é atuar na engenharia do automobilismo e que, para fortalecer a conexão entre teoria e prática, realizo simultaneamente um curso qualificatório de Desenhista Mecânico e busco aprimoramento contínuo em áreas que me aproximam do meu objetivo.
+**`Desenvolvedor Full-Stack`** 
+Me chamo Riquelme da Silva Fagundes, tenho 24 anos e sou natural do Rio de Janeiro. Atualmente estou cursando Engenharia Mecânica pela UERJ de Nova Friburgo. Meu principal objetivo de carreira é atuar na engenharia do automobilismo e que, para fortalecer a conexão entre teoria e prática, realizo simultaneamente um curso qualificatório de Desenhista Mecânico e busco aprimoramento contínuo em áreas que me aproximam do meu objetivo.
 
 
 <div align="center">
@@ -114,4 +115,4 @@
 </table>
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=RiquelmeFagundes&locale=pt-br)](https://github.com/stats-organization/github-stats-extended)
-[![Anurag's GitHub stats](https://github-top-langs-extended.vercel.app/api/top-langs/?username=RiquelmeFagundes&locale=pt-br)](https://github.com/stats-organization/github-top-langs-extended)
+https://github-stats-extended.vercel.app/api/top-langs?username=RiquelmeFagundes&hide_values=true&prog_bar_bg_color=ffffff
