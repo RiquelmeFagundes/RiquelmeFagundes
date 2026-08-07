@@ -67,7 +67,8 @@
 </td>
 
 <td align="center">
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre lang="text" class="notranslate"><code>╭──────────────────────────────────────────────────────────────╮
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre lang="text" class="notranslate"><code>
+      ╭──────────────────────────────────────────────────────────────╮
       │                      RIQUELME DEVELOPMENT                    │
       ├──────────────────────────────────────────────────────────────┤
       │                                                              │
