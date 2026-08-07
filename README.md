@@ -115,6 +115,7 @@ Me chamo Riquelme da Silva Fagundes, tenho 24 anos e sou natural do Rio de Janei
 </table>
 
 <h3 align="center" class="heading-element" dir="auto"><code>&gt; ESTATÍSTICAS</code></h3>
+<p>
 <img 
  align:"left"
  alt="GitHub Stats"
@@ -126,4 +127,5 @@ src="![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?usern
  alt="GitHub Top Langs"
  height:"200px"
 src="![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api/top-langs?username=RiquelmeFagundes&hide_values=true&locale=pt-br&custom_title=Tecnologias)"
-
+/>
+</p>
