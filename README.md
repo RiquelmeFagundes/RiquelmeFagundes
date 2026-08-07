@@ -9,7 +9,7 @@
                         
 </div>
 
-<fr>
+<hr>
 
 <div align="center" dir="auto">
 
