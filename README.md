@@ -9,7 +9,7 @@
                         
 </div>
 
-<hr style="1px">
+<hr>
 
 <div align="center" dir="auto">
 
@@ -34,6 +34,8 @@
   </a>
 
 </div>
+
+<hr>
 
 <div class="markdown-heading" dir="auto">
   <h3 class="heading-element" dir="auto"><code>&gt; ABOUT_ME</code></h3><a id="user-content--about_meexe" class="anchor" aria-label="Permalink: &gt; SOBRE_MIM.exe" href="#-about_meexe"></a>
