@@ -1,11 +1,11 @@
 <div align="center" dir="auto">
-<a href="https://www.linkedin.com/in/riquelme-fagundes-1393a4382/" rel="nofollow">
+<a href="https://www.linkedin.com/in/riquelme-fagundes-1393a4382/" target_blank rel="nofollow">
   <img src="https://img.shields.io/badge/LinkedIn-f8f7f4?style=for-the-badge&logo=linkedin&logoColor=0057ff" style="max-width: 100%;">
 </a>
-<a href="mailto:fagundesriquelme@gmail.com">
+<a href="mailto:fagundesriquelme@gmail.com" target_blank>
   <img src="https://img.shields.io/badge/Email-f8f7f4?style=for-the-badge&logo=gmail&logoColor=0057ff" style="max-width: 100%;">
 </a>
-<a href="https://github.com/RiquelmeFagundes">
+<a href="https://github.com/RiquelmeFagundes" target_blank>
   <img src="https://img.shields.io/badge/GitHub-f8f7f4?style=for-the-badge&logo=github&logoColor=0057ff" style="max-width: 100%;">
 </a>
 
