@@ -38,7 +38,7 @@
 <hr>
 
 <div class="markdown-heading" dir="auto">
-  <h3 class="heading-element" dir="auto"><code>&gt; ABOUT_ME</code></h3><a id="user-content--about_meexe" class="anchor" aria-label="Permalink: &gt; SOBRE_MIM.exe" href="#-about_meexe"></a>
+  <h3 class="heading-element" align="center" dir="auto"><code>&gt; ABOUT_ME</code></h3><a id="user-content--about_meexe" class="anchor" aria-label="Permalink: &gt; SOBRE_MIM.exe" href="#-about_meexe"></a>
 </div>
 
 <br>
@@ -67,7 +67,7 @@
 </td>
 
 <td align="center">
- https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Z5N2lnbmsxOWtra3JpYmpzdDJjNHY1b2ozZ3RjN2kzYXR6NXo3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WJ7Tr9wi8xVe0/giphy.gif
+
 
 </td>
 </tr>
