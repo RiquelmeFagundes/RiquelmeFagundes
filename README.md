@@ -12,7 +12,10 @@
 <br>
 
 <div align="center" dir="auto">
-
+ 
+ <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=0057ff" target="_blank">
+  </a>
+  
 <a href="https://www.linkedin.com/in/riquelme-fagundes-1393a4382/" rel="nofollow">
   <img src="https://img.shields.io/badge/LinkedIn-f8f7f4?style=for-the-badge&logo=linkedin&logoColor=0057ff" style="max-width: 100%;">
 </a>
@@ -22,6 +25,8 @@
 <a href="https://github.com/RiquelmeFagundes">
   <img src="https://img.shields.io/badge/GitHub-f8f7f4?style=for-the-badge&logo=github&logoColor=0057ff" style="max-width: 100%;">
 </a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=github&logoColor=0057ff" target="_blank">
+ </a>
 
 <div class="markdown-heading" dir="auto">
   <h3 class="heading-element" dir="auto"><code>&gt; ABOUT_ME</code></h3><a id="user-content--about_meexe" class="anchor" aria-label="Permalink: &gt; SOBRE_MIM.exe" href="#-about_meexe"></a>
@@ -52,7 +57,7 @@
 </td>
 
 <td align="center">
-<div class="tenor-gif-embed" data-postid="823455029633299401" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/mew-pokemon-gif-823455029633299401">Mew Pokemon Sticker</a>from <a href="https://tenor.com/search/mew-stickers">Mew Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 </td>
 </tr>
