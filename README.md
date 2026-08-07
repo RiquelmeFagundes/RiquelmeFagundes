@@ -1,4 +1,4 @@
-<div class="container-tech" align="center">
+<div align="center">
   <h3  class="heading-element" dir="auto"><code>LANGUAGES</code></h3>
 <img width="161" height="48" alt="image" src="https://github.com/user-attachments/assets/6cc1749c-9499-4c5c-a0e4-1b9721861a21" /><div style="display: inline_block">
 </div>
