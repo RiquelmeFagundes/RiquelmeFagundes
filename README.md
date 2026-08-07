@@ -1,7 +1,7 @@
-
-  <h3 align="center" class="heading-element" dir="auto"><code>LANGUAGES</code></h3>
+<div class="container-tech" align="center">
+  <h3  class="heading-element" dir="auto"><code>LANGUAGES</code></h3>
 <img width="161" height="48" alt="image" src="https://github.com/user-attachments/assets/6cc1749c-9499-4c5c-a0e4-1b9721861a21" /><div style="display: inline_block">
-          
+</div>
           
   <h3 class="heading-element" dir="auto"><code>IDE & VERSIONING</code></h3>
   <img width="273" height="48" alt="image" src="https://github.com/user-attachments/assets/f5fd22c7-5ded-4118-9d4c-e07d1ce6ed55" />
