@@ -113,4 +113,4 @@
 </tr>
 </table>
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=RiquelmeFagundes)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=RiquelmeFagundes&locale=pt-br)](https://github.com/stats-organization/github-stats-extended)
