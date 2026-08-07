@@ -1,6 +1,6 @@
 
   <h3 align="center" class="heading-element" dir="auto"><code>LANGUAGES</code></h3>
-<img width="161" height="48" alt="image" src="https://github.com/user-attachments/assets/6cc1749c-9499-4c5c-a0e4-1b9721861a21" /> <img width="161" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /><div style="display: inline_block">
+<img width="161" height="48" alt="image" src="https://github.com/user-attachments/assets/6cc1749c-9499-4c5c-a0e4-1b9721861a21" /><div style="display: inline_block">
           
           
   <h3 class="heading-element" dir="auto"><code>IDE & VERSIONING</code></h3>
