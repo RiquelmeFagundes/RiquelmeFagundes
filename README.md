@@ -1,6 +1,6 @@
 <div align="center" dir="auto">
 <a href="https://www.linkedin.com/in/iris-lobato-36718125b" rel="nofollow">
-<img src="https://camo.githubusercontent.com/e92e49c2eb9359c0e2330c893aefe998622b45b260853ce4f4f1a543fefc848d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d4637413844313f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d304431313137" data-canonical-src="https://img.shields.io/badge/LinkedIn-F7A8D1?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/e92e49c2eb9359c0e2330c893aefe998622b45b260853ce4f4f1a543fefc848d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d4637413844313f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d304431313137" data-canonical-src="https://img.shields.io/badge/LinkedIn-F7A8D1?style=for-the-badge&amp;logo=linkedin&amp;logoColor=ffffff" style="max-width: 100%;">
 </a>
 <a href="mailto:fagundesriquelme@gmail.com">
 <img src="https://camo.githubusercontent.com/f17c72ab62d62ef6bfb0747b0239089ad71e9451b1c6643395b18877de0c67f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d4330383446433f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d304431313137" data-canonical-src="https://img.shields.io/badge/Email-C084FC?style=for-the-badge&amp;logo=gmail&amp;logoColor=0D1117" style="max-width: 100%;">
