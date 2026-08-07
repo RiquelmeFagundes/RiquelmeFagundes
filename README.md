@@ -1,3 +1,11 @@
+<div style="display: inline_block">
+  <code>LANGUAGES</code>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+                        
+</div>
+
 <div align="center" dir="auto">
 <a href="https://www.linkedin.com/in/riquelme-fagundes-1393a4382/" rel="nofollow">
   <img src="https://img.shields.io/badge/LinkedIn-f8f7f4?style=for-the-badge&logo=linkedin&logoColor=0057ff" style="max-width: 100%;">
@@ -29,6 +37,8 @@
     Backend Development,
     Projectist Engineer,
     Vehicle Dynamics & Aerodynamics
+}
+  
 </code>
 </pre>
 </td>
