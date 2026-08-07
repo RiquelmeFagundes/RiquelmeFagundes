@@ -9,7 +9,7 @@
                         
 </div>
 
-<hr>
+<hr style="1px">
 
 <div align="center" dir="auto">
 
