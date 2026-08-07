@@ -1,6 +1,6 @@
-<h1 align="center"># ⚙️Riquelme Fagundes</h1>
-**`Desenvolvedor Full-Stack`**
-Me chamo Riquelme da Silva Fagundes, tenho 24 anos e sou natural do Rio de Janeiro. Atualmente estou cursando Engenharia Mecânica pela UERJ de Nova Friburgo. Meu principal objetivo de carreira é atuar na engenharia do automobilismo e que, para fortalecer a conexão entre teoria e prática, realizo simultaneamente um curso qualificatório de Desenhista Mecânico e busco aprimoramento contínuo em áreas que me aproximam do meu objetivo.
+<h1 align="center"> ⚙️Riquelme Fagundes</h1>
+
+**`Desenvolvedor Full-Stack`** Me chamo Riquelme da Silva Fagundes, tenho 24 anos e sou natural do Rio de Janeiro. Atualmente estou cursando Engenharia Mecânica pela UERJ de Nova Friburgo. Meu principal objetivo de carreira é atuar na engenharia do automobilismo e que, para fortalecer a conexão entre teoria e prática, realizo simultaneamente um curso qualificatório de Desenhista Mecânico e busco aprimoramento contínuo em áreas que me aproximam do meu objetivo.
 
 
 <div align="center">
