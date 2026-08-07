@@ -114,3 +114,4 @@
 </table>
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=RiquelmeFagundes&locale=pt-br)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-top-langs-extended.vercel.app/api/top-langs/?username=RiquelmeFagundes&locale=pt-br)](https://github.com/stats-organization/github-top-langs-extended)
