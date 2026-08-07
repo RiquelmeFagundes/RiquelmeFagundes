@@ -117,7 +117,7 @@ Me chamo Riquelme da Silva Fagundes, tenho 24 anos e sou natural do Rio de Janei
 
 <div align="center">
 
-## 🐍 Contribution Snake
+<h3 class="heading-element" dir="auto"><code>&gt; CONTRIBUTION SNAKE</code></h3>
 
 <img src="https://raw.githubusercontent.com/RiquelmeFagundes/RiquelmeFagundes/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 
