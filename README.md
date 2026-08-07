@@ -20,62 +20,21 @@
 <pre>
 <code class="language-json">
 {
-  "name": "Seu Nome",
-  "role": "Seu Cargo",
-  "education": "Sua Formação",
+  "name": Riquelme Fagundes,
+  "role": Back-End Developer,
+  "education": Mechanical Engineering
 
-  "focus": [
-    "Área 1",
-    "Área 2",
-    "Área 3",
-    "Área 4"
-  ],
-
-  "skills": {
-    "languages": [
-      "Linguagem 1",
-      "Linguagem 2",
-      "Linguagem 3"
-    ],
-
-    "frameworks": [
-      "Framework 1",
-      "Framework 2"
-    ],
-
-    "database": [
-      "Banco de Dados 1",
-      "Banco de Dados 2"
-    ],
-
-    "tools": [
-      "Git",
-      "Docker",
-      "Linux",
-      "VS Code"
-    ]
-  },
-
-  "mindset": [
-    "Característica 1",
-    "Característica 2",
-    "Característica 3",
-    "Característica 4"
-  ],
-
-  "currently_learning": [
-    "Tecnologia 1",
-    "Tecnologia 2"
-  ]
-}
+  "interests": 
+    Motorsports Engineering,
+    Backend Development,
+    Projectist Engineer,
+    Vehicle Dynamics & Aerodynamics
 </code>
 </pre>
-
 </td>
 
 <td align="center">
 
-<img src="URL_DO_SEU_GIF" width="180px">
 
 </td>
 </tr>
