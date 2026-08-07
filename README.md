@@ -9,7 +9,7 @@
                         
 </div>
 
-<br>
+
 
 <div align="center" dir="auto">
 
@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/GitHub-f8f7f4?style=for-the-badge&logo=github&logoColor=0057ff" style="max-width: 100%;">
   </a>
 
-  <a href="https://discord.gg/wagxzStdcR" target="_blank" rel="noopener noreferrer">
+  <a href="https://discord.gg/HUhj5mtp" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-f8f7f4?style=for-the-badge&logo=discord&logoColor=0057ff" style="max-width: 100%;">
   </a>
 
@@ -65,7 +65,7 @@
 </td>
 
 <td align="center">
-
+ https://imgs.search.brave.com/k2DI3ej8iBUtX_noSy_1KGkA0BglUpOVo6mkXlB_WBg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/NUl2bzI5VHJHUHdB/QUFBbS9wb2tlbW9u/LXBvayVDMyVBOW1v/bi53ZWJw
 
 </td>
 </tr>
