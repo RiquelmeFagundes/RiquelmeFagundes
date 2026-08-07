@@ -1,11 +1,11 @@
 <div align="center" dir="auto">
-<a href="https://www.linkedin.com/in/riquelme-fagundes-1393a4382/" target_blank rel="nofollow">
+<a href="https://www.linkedin.com/in/riquelme-fagundes-1393a4382/" rel="nofollow">
   <img src="https://img.shields.io/badge/LinkedIn-f8f7f4?style=for-the-badge&logo=linkedin&logoColor=0057ff" style="max-width: 100%;">
 </a>
-<a href="mailto:fagundesriquelme@gmail.com" target_blank>
+<a href="mailto:fagundesriquelme@gmail.com">
   <img src="https://img.shields.io/badge/Email-f8f7f4?style=for-the-badge&logo=gmail&logoColor=0057ff" style="max-width: 100%;">
 </a>
-<a href="https://github.com/RiquelmeFagundes" target_blank>
+<a href="https://github.com/RiquelmeFagundes">
   <img src="https://img.shields.io/badge/GitHub-f8f7f4?style=for-the-badge&logo=github&logoColor=0057ff" style="max-width: 100%;">
 </a>
 
@@ -13,3 +13,70 @@
 <br>
 
 
+<table>
+<tr>
+<td width="65%">
+
+<pre>
+<code class="language-json">
+{
+  "name": "Seu Nome",
+  "role": "Seu Cargo",
+  "education": "Sua Formação",
+
+  "focus": [
+    "Área 1",
+    "Área 2",
+    "Área 3",
+    "Área 4"
+  ],
+
+  "skills": {
+    "languages": [
+      "Linguagem 1",
+      "Linguagem 2",
+      "Linguagem 3"
+    ],
+
+    "frameworks": [
+      "Framework 1",
+      "Framework 2"
+    ],
+
+    "database": [
+      "Banco de Dados 1",
+      "Banco de Dados 2"
+    ],
+
+    "tools": [
+      "Git",
+      "Docker",
+      "Linux",
+      "VS Code"
+    ]
+  },
+
+  "mindset": [
+    "Característica 1",
+    "Característica 2",
+    "Característica 3",
+    "Característica 4"
+  ],
+
+  "currently_learning": [
+    "Tecnologia 1",
+    "Tecnologia 2"
+  ]
+}
+</code>
+</pre>
+
+</td>
+
+<td align="center">
+
+<img src="URL_DO_SEU_GIF" width="180px">
+
+</td>
+</tr>
+</table>
