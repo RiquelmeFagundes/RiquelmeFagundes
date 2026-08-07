@@ -13,8 +13,9 @@
 
 <div align="center" dir="auto">
  
- <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=0057ff" target="_blank">
-  </a>
+ <a href="https://www.instagram.com/riquelmao2.0/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=0057ff" style="max-width: 100%; target="_blank">
+ </a>
   
 <a href="https://www.linkedin.com/in/riquelme-fagundes-1393a4382/" rel="nofollow">
   <img src="https://img.shields.io/badge/LinkedIn-f8f7f4?style=for-the-badge&logo=linkedin&logoColor=0057ff" style="max-width: 100%;">
@@ -25,7 +26,8 @@
 <a href="https://github.com/RiquelmeFagundes">
   <img src="https://img.shields.io/badge/GitHub-f8f7f4?style=for-the-badge&logo=github&logoColor=0057ff" style="max-width: 100%;">
 </a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=github&logoColor=0057ff" target="_blank">
+ <a href="https://discord.gg/wagxzStdcR" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=github&logoColor=0057ff"style="max-width: 100%; target="_blank" >
  </a>
 
 <div class="markdown-heading" dir="auto">
