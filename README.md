@@ -1,8 +1,6 @@
-<div style="display: inline_block">
+<img width="161" height="48" alt="image" src="https://github.com/user-attachments/assets/6cc1749c-9499-4c5c-a0e4-1b9721861a21" /><div style="display: inline_block">
   <code>LANGUAGES</code>
-<img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5363dbab2b17d011e427180a87fc5d40083979ecb59212e5b15101acd4155dd4/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c2c6373732c6a73"><img src="https://camo.githubusercontent.com/5363dbab2b17d011e427180a87fc5d40083979ecb59212e5b15101acd4155dd4/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c2c6373732c6a73" data-canonical-src="https://skillicons.dev/icons?i=html,css,js" style="max-width: 100%;"></a>
   <code>IDE & VERSIONING</code>
                         
 </div>
