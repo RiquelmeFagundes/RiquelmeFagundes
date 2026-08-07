@@ -12,24 +12,28 @@
 <br>
 
 <div align="center" dir="auto">
- 
- <a href="https://www.instagram.com/riquelmao2.0/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=0057ff" style="max-width: 100%; target="_blank">
- </a>
-  
-<a href="https://www.linkedin.com/in/riquelme-fagundes-1393a4382/" rel="nofollow">
-  <img src="https://img.shields.io/badge/LinkedIn-f8f7f4?style=for-the-badge&logo=linkedin&logoColor=0057ff" style="max-width: 100%;">
-</a>
-<a href="mailto:fagundesriquelme@gmail.com">
-  <img src="https://img.shields.io/badge/Email-f8f7f4?style=for-the-badge&logo=gmail&logoColor=0057ff" style="max-width: 100%;">
-</a>
-<a href="https://github.com/RiquelmeFagundes">
-  <img src="https://img.shields.io/badge/GitHub-f8f7f4?style=for-the-badge&logo=github&logoColor=0057ff" style="max-width: 100%;">
-</a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=github&logoColor=0057ff"style="max-width: 100%; target="_blank" >
- </a>
 
+  <a href="https://www.instagram.com/riquelmao2.0/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-f8f7f4?style=for-the-badge&logo=instagram&logoColor=0057ff" style="max-width: 100%;">
+  </a>
+
+  <a href="https://www.linkedin.com/in/riquelme-fagundes-1393a4382/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-f8f7f4?style=for-the-badge&logo=linkedin&logoColor=0057ff" style="max-width: 100%;">
+  </a>
+
+  <a href="mailto:fagundesriquelme@gmail.com">
+    <img src="https://img.shields.io/badge/Email-f8f7f4?style=for-the-badge&logo=gmail&logoColor=0057ff" style="max-width: 100%;">
+  </a>
+
+  <a href="https://github.com/RiquelmeFagundes" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-f8f7f4?style=for-the-badge&logo=github&logoColor=0057ff" style="max-width: 100%;">
+  </a>
+
+  <a href="https://discord.gg/wagxzStdcR" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Discord-f8f7f4?style=for-the-badge&logo=discord&logoColor=0057ff" style="max-width: 100%;">
+  </a>
+
+</div>
 <div class="markdown-heading" dir="auto">
   <h3 class="heading-element" dir="auto"><code>&gt; ABOUT_ME</code></h3><a id="user-content--about_meexe" class="anchor" aria-label="Permalink: &gt; SOBRE_MIM.exe" href="#-about_meexe"></a>
 </div>
