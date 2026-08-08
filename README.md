@@ -50,7 +50,7 @@ Me chamo Riquelme da Silva Fagundes, tenho 24 anos e sou natural do Rio de Janei
 <hr>
 
 <div class="markdown-heading" dir="auto">
-  <h3 class="heading-element" align="center" dir="auto"><code>&gt; ABOUT_ME</code></h3><a id="user-content--about_meexe" class="anchor" aria-label="Permalink: &gt; SOBRE_MIM.exe" href="#-about_meexe"></a>
+  <h3 class="heading-element" align="center" dir="auto"><code>&gt; ABOUT ME</code></h3><a id="user-content--about_meexe" class="anchor" aria-label="Permalink: &gt; SOBRE_MIM.exe" href="#-about_meexe"></a>
 </div>
 
 <br>
