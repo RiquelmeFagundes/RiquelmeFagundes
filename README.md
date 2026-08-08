@@ -8,7 +8,12 @@ Me chamo Riquelme da Silva Fagundes, tenho 24 anos e sou natural do Rio de Janei
 <div align="center">
  
  <h3  class="heading-element" dir="auto"><code>&gt; LANGUAGES</code></h3>
- <img width="161" height="48" alt="image" src="https://github.com/user-attachments/assets/6cc1749c-9499-4c5c-a0e4-1b9721861a21" />
+ 
+ <img width="49" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+ <img width="49" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+ <img width="49" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+ <img width="49" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+          
  
  <h3 class="heading-element" dir="auto"><code>&gt; IDE & VERSIONING</code></h3>
  <img width="273" height="48" alt="image" src="https://github.com/user-attachments/assets/f5fd22c7-5ded-4118-9d4c-e07d1ce6ed55" /> 
